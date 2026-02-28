@@ -1,0 +1,10 @@
+ESCOPO DO PROJETO
+
+O sistema tem como finalidade:
+
+- Controlar solicitações de mudanças
+- Gerenciar artefatos do projeto
+- Permitir colaboração entre desenvolvedores
+- Garantir rastreabilidade das versões
+
+O repositório remoto é o local oficial de armazenamento dos artefatos.
